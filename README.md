@@ -17,6 +17,7 @@ Pattern:
 > **A 13-year backend engineer transitioning from secure server development into hybrid-cloud platform engineering.**
 > I've built enterprise security services — interfaces, batch jobs, and SaaS microservices —
 > and I'm now leading my own platform-redesign work and AI-assisted backend development.
+>> 🇰🇷 한국어 커리어 노트는 [CAREER.ko.md](./CAREER.ko.md) 를 참고해 주세요.
 
 ---
 
